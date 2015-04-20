@@ -2,4 +2,4 @@
 quick and easy twitch integration demo in php.
 
 ## Preview
-http://softllama.com/twitch/
+http://twitch.softllama.com/
